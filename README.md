@@ -1,6 +1,6 @@
-# RDPIR - Real-time Data Processing and Incident Response
+# RDPIR - Ransomware Detection, Prevention and Incident Response
 
-A comprehensive security monitoring system that provides real-time data processing and incident response capabilities using modern technologies.
+A comprehensive security monitoring system that provides ransomware detection, prevention and incident response capabilities using modern technologies.
 
 ## Architecture
 
